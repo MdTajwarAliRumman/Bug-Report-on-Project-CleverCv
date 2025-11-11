@@ -44,7 +44,13 @@ From the messaging on the site, the primary goals & objectives seem to be:
 
 ## 📊 Live Report / Bug Report Link
 
-👉 **[View Full Bug Report](https://docs.google.com/spreadsheets/d/1VBmvKLQkgHBDaK1_38IkMBzZ-k7mFZF-x4IXdvFKYoo/edit?usp=sharing)**
+<p align="left">
+  <a href="https://docs.google.com/spreadsheets/d/1VBmvKLQkgHBDaK1_38IkMBzZ-k7mFZF-x4IXdvFKYoo/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Bug%20Report-Click%20Here-red?style=for-the-badge" alt="Bug Report" />
+  </a>
+</p>
+
+ 
 
 ---
 
